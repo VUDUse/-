@@ -1,0 +1,15 @@
+D:\Проекты\шапочка\ромка\ромка\bin\Debug\net6.0\ромка.exe
+D:\Проекты\шапочка\ромка\ромка\bin\Debug\net6.0\ромка.deps.json
+D:\Проекты\шапочка\ромка\ромка\bin\Debug\net6.0\ромка.runtimeconfig.json
+D:\Проекты\шапочка\ромка\ромка\bin\Debug\net6.0\ромка.dll
+D:\Проекты\шапочка\ромка\ромка\bin\Debug\net6.0\ref\ромка.dll
+D:\Проекты\шапочка\ромка\ромка\bin\Debug\net6.0\ромка.pdb
+D:\Проекты\шапочка\ромка\ромка\obj\Debug\net6.0\ромка.csproj.AssemblyReference.cache
+D:\Проекты\шапочка\ромка\ромка\obj\Debug\net6.0\ромка.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\шапочка\ромка\ромка\obj\Debug\net6.0\ромка.AssemblyInfoInputs.cache
+D:\Проекты\шапочка\ромка\ромка\obj\Debug\net6.0\ромка.AssemblyInfo.cs
+D:\Проекты\шапочка\ромка\ромка\obj\Debug\net6.0\ромка.csproj.CoreCompileInputs.cache
+D:\Проекты\шапочка\ромка\ромка\obj\Debug\net6.0\ромка.dll
+D:\Проекты\шапочка\ромка\ромка\obj\Debug\net6.0\ref\ромка.dll
+D:\Проекты\шапочка\ромка\ромка\obj\Debug\net6.0\ромка.pdb
+D:\Проекты\шапочка\ромка\ромка\obj\Debug\net6.0\ромка.genruntimeconfig.cache
